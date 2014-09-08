@@ -13,7 +13,9 @@ amount and determine the tip and total amount to be paid.
 percentage
  * [] Optional: Animate the tip calculator screen. 
 
-Walkthrough of all user stories
+Walkthrough of all user stories:
+
 ![Video Walkthrough](walkthrough.gif)
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
