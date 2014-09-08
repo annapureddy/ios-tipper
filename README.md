@@ -11,7 +11,7 @@ Completed user stories:
 amount and determine the tip and total amount to be paid.
  * [x] Required: Settings screen, so the user can select a default tip
 percentage
- * [] Optional: Animate the tip calculator screen. 
+ * [ ] Optional: Animate the tip calculator screen. 
 
 Walkthrough of all user stories:
 
